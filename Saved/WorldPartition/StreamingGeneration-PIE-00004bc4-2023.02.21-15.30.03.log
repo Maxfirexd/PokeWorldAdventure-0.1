@@ -1,0 +1,168 @@
+[+] Containers:
+ |- [+] Container: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:00ACD2CD43413F375CFE6E9851C76BD6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_17 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-412.827 Y=-755.301 Z=-50.000), Max=(X=3937.173 Y=4344.699 Z=-0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:PalletTown FolderGuid:9FE5E8B349AF71F05F2688921F3F2AC5
+ |   |   |- Guid:12E1BE6B4FB418A9314EC5AFA7E15B44 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:2036E76B43E58F2258EB97864E025819 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_1 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:26D514744BA126C3D98BC5AB571987CE BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:2778E1A34D06966D280DB391357726BC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2896201_2022090761 Label:Trawa3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2536.386 Y=1928.405 Z=-21.337), Max=(X=2641.931 Y=2040.946 Z=130.747) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:48525BDD48A2B22E40EF088B9DDFD7BD BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_1 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100.000 Y=-100.000 Z=-110.000), Max=(X=3100.000 Y=3600.000 Z=390.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Navigation FolderGuid:AE45D61F453CC144CF8289862C276E89
+ |   |   |- Guid:4F8FA8D345D5788238B0AF86521B548B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2896201_2033924763 Label:Trawa5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2677.359 Y=1885.507 Z=-21.337), Max=(X=2782.904 Y=1998.049 Z=130.747) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:536E354D410450825E491AAC6B3CF1D0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_23 Label:SM_Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2900.000 Y=100.000 Z=0.000), Max=(X=3000.000 Y=3400.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:PalletTown FolderGuid:9FE5E8B349AF71F05F2688921F3F2AC5
+ |   |   |- Guid:595F7B054308B106F6F7738AF90C5CCA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2886001_1205547477 Label:Var2_LOD0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1891.261 Y=1667.547 Z=0.000), Max=(X=1891.261 Y=1667.547 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5DE7AF6F469A1C9C45B64FB26B686573 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2896201_2046812766 Label:Trawa7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2677.718 Y=1826.902 Z=-21.337), Max=(X=2783.263 Y=1939.443 Z=130.747) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:653287DA4B0B121A51D65E8A89F98D57 BaseClass:/Game/Pokemon/Pokemons_Ready/Caterpie.Caterpie_C NativeClass:/Script/Engine.Character Name:Caterpie_C_UAID_244BFE5536D2BA6801_1853931720 Label:Caterpie SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2561.292 Y=2509.809 Z=0.000), Max=(X=2587.292 Y=2535.809 Z=30.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:69EBC50246C78F8396D079B983A1FC55 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_22 Label:SM_Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.000 Y=100.000 Z=0.000), Max=(X=100.000 Y=3400.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:PalletTown FolderGuid:9FE5E8B349AF71F05F2688921F3F2AC5
+ |   |   |- Guid:6E64DFC14D625E02D147FDADC7748F4D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2896201_2054853767 Label:Trawa8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2616.506 Y=1928.405 Z=-21.337), Max=(X=2722.051 Y=2040.946 Z=130.747) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:72781C7948EF4DA4D70B149CBCE711E5 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_1 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:72A4EB5B405F27297130FC89C2D468C9 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:821C921C4B71315B137CBF9806FA50A8 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2314.190 Y=1887.519 Z=0.013), Max=(X=2394.190 Y=1967.519 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:9EE9978F4AEDC77832FE7B8748557663 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2896201_2013776760 Label:Trawa2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2536.386 Y=1885.507 Z=-21.337), Max=(X=2641.931 Y=1998.049 Z=130.747) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:A033600447F1147DE1786499C2545A92 BaseClass:/Game/Pokemon/Encounter_BP.Encounter_BP_C NativeClass:/Script/Engine.Actor Name:Encounter_BP_C_UAID_244BFE5536D2B66801_1535042015 Label:Encounter_BP SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2581.264 Y=1880.652 Z=8.494), Max=(X=2757.264 Y=1992.652 Z=104.494) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:AC726C1448CD8E0B3CAA07B7575F9C7B BaseClass:/Game/Pokemon/Pokemons_Ready/Weedle.Weedle_C NativeClass:/Script/Engine.Character Name:0013-Weedle_C_UAID_244BFE5536D2326801_1568242783 Label:0013-Weedle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2625.768 Y=2566.741 Z=-0.426), Max=(X=2651.944 Y=2592.741 Z=29.574) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B11940E849269F487CCD8381A18D2F43 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2896201_2044210765 Label:Trawa6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2605.997 Y=1826.902 Z=-21.337), Max=(X=2711.542 Y=1939.443 Z=130.747) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:BA21811F47D4952781A3C5992D0B2C9C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2896201_2028302762 Label:Trawa4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2536.386 Y=1826.902 Z=-21.337), Max=(X=2641.931 Y=1939.443 Z=130.747) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:C19044AE498BB574CCF55892101D91F7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5CFB00_1660657071 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:C5DDA21A4B075E16280D0791FC899C1A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2B16001_2082878692 Label:Trawa SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2597.585 Y=1885.507 Z=-21.337), Max=(X=2703.130 Y=1998.049 Z=130.748) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:CCA21BDB4430372AFCEC37976A87D8F1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2446001_1418662504 Label:SM_Cube8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1885.573 Y=643.030 Z=0.000), Max=(X=2485.573 Y=1543.030 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:PalletTown FolderGuid:9FE5E8B349AF71F05F2688921F3F2AC5
+ |   |   |- Guid:D450BC2C4031B2696B8F7AA60F444CBE BaseClass: NativeClass:/Script/AIModule.NavLinkProxy Name:NavLinkProxy_3 Label:NavLinkProxy3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2240.000 Y=1030.000 Z=90.000), Max=(X=2240.000 Y=1030.000 Z=90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Navigation FolderGuid:AE45D61F453CC144CF8289862C276E89
+ |   |   |- Guid:D899965F4FDD2F4EC09E70ADD1E8B769 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_1 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:D9689CCD42F49C386CF44EA36895724B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2886001_1252010479 Label:Var1_LOD1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1885.972 Y=1694.358 Z=-0.000), Max=(X=1885.972 Y=1694.358 Z=-0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:DFC715474C22510841D2F08217C7AF34 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_18 Label:SM_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=3000.000 Y=100.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:PalletTown FolderGuid:9FE5E8B349AF71F05F2688921F3F2AC5
+ |   |   |- Guid:E8EE41324F77E6A3492770A2A95F42EA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_19 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=3400.000 Z=0.000), Max=(X=3000.000 Y=3500.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:PalletTown FolderGuid:9FE5E8B349AF71F05F2688921F3F2AC5
+ |   |   |- Guid:ECD04BFF43B5856256852AACAD012163 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2896201_2061583768 Label:Trawa9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2675.931 Y=1928.405 Z=-21.337), Max=(X=2781.476 Y=2040.946 Z=130.747) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:F49D3D64420D0C3C58AAD7856A3C181D BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:ECD04BFF43B5856256852AACAD012163 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2896201_2061583768 Label:Trawa9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2675.931 Y=1928.405 Z=-21.337), Max=(X=2781.476 Y=2040.946 Z=130.747) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:2778E1A34D06966D280DB391357726BC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2896201_2022090761 Label:Trawa3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2536.386 Y=1928.405 Z=-21.337), Max=(X=2641.931 Y=2040.946 Z=130.747) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:CCA21BDB4430372AFCEC37976A87D8F1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2446001_1418662504 Label:SM_Cube8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1885.573 Y=643.030 Z=0.000), Max=(X=2485.573 Y=1543.030 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:PalletTown FolderGuid:9FE5E8B349AF71F05F2688921F3F2AC5
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:BA21811F47D4952781A3C5992D0B2C9C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2896201_2028302762 Label:Trawa4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2536.386 Y=1826.902 Z=-21.337), Max=(X=2641.931 Y=1939.443 Z=130.747) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:4F8FA8D345D5788238B0AF86521B548B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2896201_2033924763 Label:Trawa5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2677.359 Y=1885.507 Z=-21.337), Max=(X=2782.904 Y=1998.049 Z=130.747) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:D9689CCD42F49C386CF44EA36895724B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2886001_1252010479 Label:Var1_LOD1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1885.972 Y=1694.358 Z=-0.000), Max=(X=1885.972 Y=1694.358 Z=-0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:5DE7AF6F469A1C9C45B64FB26B686573 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2896201_2046812766 Label:Trawa7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2677.718 Y=1826.902 Z=-21.337), Max=(X=2783.263 Y=1939.443 Z=130.747) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:26D514744BA126C3D98BC5AB571987CE BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:536E354D410450825E491AAC6B3CF1D0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_23 Label:SM_Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2900.000 Y=100.000 Z=0.000), Max=(X=3000.000 Y=3400.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:PalletTown FolderGuid:9FE5E8B349AF71F05F2688921F3F2AC5
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:2036E76B43E58F2258EB97864E025819 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_1 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:9EE9978F4AEDC77832FE7B8748557663 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2896201_2013776760 Label:Trawa2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2536.386 Y=1885.507 Z=-21.337), Max=(X=2641.931 Y=1998.049 Z=130.747) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:72A4EB5B405F27297130FC89C2D468C9 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:D450BC2C4031B2696B8F7AA60F444CBE BaseClass: NativeClass:/Script/AIModule.NavLinkProxy Name:NavLinkProxy_3 Label:NavLinkProxy3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2240.000 Y=1030.000 Z=90.000), Max=(X=2240.000 Y=1030.000 Z=90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Navigation FolderGuid:AE45D61F453CC144CF8289862C276E89
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:E8EE41324F77E6A3492770A2A95F42EA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_19 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=3400.000 Z=0.000), Max=(X=3000.000 Y=3500.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:PalletTown FolderGuid:9FE5E8B349AF71F05F2688921F3F2AC5
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:6E64DFC14D625E02D147FDADC7748F4D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2896201_2054853767 Label:Trawa8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2616.506 Y=1928.405 Z=-21.337), Max=(X=2722.051 Y=2040.946 Z=130.747) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:AC726C1448CD8E0B3CAA07B7575F9C7B BaseClass:/Game/Pokemon/Pokemons_Ready/Weedle.Weedle_C NativeClass:/Script/Engine.Character Name:0013-Weedle_C_UAID_244BFE5536D2326801_1568242783 Label:0013-Weedle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2625.768 Y=2566.741 Z=-0.426), Max=(X=2651.944 Y=2592.741 Z=29.574) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:C5DDA21A4B075E16280D0791FC899C1A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2B16001_2082878692 Label:Trawa SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2597.585 Y=1885.507 Z=-21.337), Max=(X=2703.130 Y=1998.049 Z=130.748) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:DFC715474C22510841D2F08217C7AF34 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_18 Label:SM_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=3000.000 Y=100.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:PalletTown FolderGuid:9FE5E8B349AF71F05F2688921F3F2AC5
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:821C921C4B71315B137CBF9806FA50A8 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2314.190 Y=1887.519 Z=0.013), Max=(X=2394.190 Y=1967.519 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:F49D3D64420D0C3C58AAD7856A3C181D BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:72781C7948EF4DA4D70B149CBCE711E5 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_1 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:B11940E849269F487CCD8381A18D2F43 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2896201_2044210765 Label:Trawa6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2605.997 Y=1826.902 Z=-21.337), Max=(X=2711.542 Y=1939.443 Z=130.747) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:69EBC50246C78F8396D079B983A1FC55 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_22 Label:SM_Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.000 Y=100.000 Z=0.000), Max=(X=100.000 Y=3400.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:PalletTown FolderGuid:9FE5E8B349AF71F05F2688921F3F2AC5
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:48525BDD48A2B22E40EF088B9DDFD7BD BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_1 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100.000 Y=-100.000 Z=-110.000), Max=(X=3100.000 Y=3600.000 Z=390.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Navigation FolderGuid:AE45D61F453CC144CF8289862C276E89
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:12E1BE6B4FB418A9314EC5AFA7E15B44 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:D899965F4FDD2F4EC09E70ADD1E8B769 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_1 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:C19044AE498BB574CCF55892101D91F7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5CFB00_1660657071 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:595F7B054308B106F6F7738AF90C5CCA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE5536D2886001_1205547477 Label:Var2_LOD0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1891.261 Y=1667.547 Z=0.000), Max=(X=1891.261 Y=1667.547 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:00ACD2CD43413F375CFE6E9851C76BD6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_17 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-412.827 Y=-755.301 Z=-50.000), Max=(X=3937.173 Y=4344.699 Z=-0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:PalletTown FolderGuid:9FE5E8B349AF71F05F2688921F3F2AC5
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:A033600447F1147DE1786499C2545A92 BaseClass:/Game/Pokemon/Encounter_BP.Encounter_BP_C NativeClass:/Script/Engine.Actor Name:Encounter_BP_C_UAID_244BFE5536D2B66801_1535042015 Label:Encounter_BP SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2581.264 Y=1880.652 Z=8.494), Max=(X=2757.264 Y=1992.652 Z=104.494) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:653287DA4B0B121A51D65E8A89F98D57 BaseClass:/Game/Pokemon/Pokemons_Ready/Caterpie.Caterpie_C NativeClass:/Script/Engine.Character Name:Caterpie_C_UAID_244BFE5536D2BA6801_1853931720 Label:Caterpie SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2561.292 Y=2509.809 Z=0.000), Max=(X=2587.292 Y=2535.809 Z=30.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-412.827 Y=-755.301 Z=-50.000), Max=(X=3937.173 Y=4344.699 Z=400.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town
+----------------------------------------------------------------------------------------------------------------
+Pallet_Town - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 42 
+
+----------------------------------------------------------------------------------------------------------------
+Pallet_Town - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=-412.827 Y=-755.301 Z=-50.000), Max=(X=3937.173 Y=4344.699 Z=400.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count   20 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X0_Y0
+ |   |- Actor Count: 20
+ |   |- MinMaxZ: X=-21.337 Y=400.000
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.StaticMeshActor_UAID_244BFE5536D2896201_2061583768
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/0/I3/RVMP2517PNRRHIK7HDP6U1
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.StaticMeshActor_UAID_244BFE5536D2896201_2022090761
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/0/X5/YM1V7DXAZB8YKF4WD8CLVG
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.StaticMeshActor_UAID_244BFE5536D2446001_1418662504
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/2/08/CROUVCQ15EZ7KECH0ZJY0D
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.StaticMeshActor_UAID_244BFE5536D2896201_2028302762
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/2/6P/RZJ31NK5DSDVXR2YMSBDBO
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.StaticMeshActor_UAID_244BFE5536D2896201_2033924763
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/2/MI/63N7UAIPHZHMW0LD1K23U2
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.StaticMeshActor_UAID_244BFE5536D2886001_1252010479
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/2/OK/B28THRIJBBIP9JH70FWJ9E
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.StaticMeshActor_UAID_244BFE5536D2896201_2046812766
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/2/YX/N263LB86DXTO88JYJIZ25C
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.StaticMeshActor_23
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/3/NM/FSTX3GBN6MZC4HIQKCZQE1
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.StaticMeshActor_UAID_244BFE5536D2896201_2013776760
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/4/S5/GMZNU7RAJ66DI58BKLNZHH
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.NavLinkProxy_3
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/5/JQ/IZ8U6BTIM8EZI337TUW2RD
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.StaticMeshActor_19
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/5/ZK/DU4PKY7A08REHPELRHMLZC
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.StaticMeshActor_UAID_244BFE5536D2896201_2054853767
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/6/PK/586JTQ23XJJK039HGCI9OY
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.0013-Weedle_C_UAID_244BFE5536D2326801_1568242783
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/7/CK/NZPTJMK7UV3BQETFKD76RF
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.StaticMeshActor_UAID_244BFE5536D2B16001_2082878692
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/7/E5/HFQT60AR9QXAR6IM8PD7B5
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.StaticMeshActor_18
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/9/6I/YZNAZZ7FGM2KVBVO8ZVIHI
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.StaticMeshActor_UAID_244BFE5536D2896201_2044210765
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/B/HR/1NYVUJZB6471RS19S7SVEM
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.StaticMeshActor_22
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/B/PP/3JTQS9S7AQ3I7MDKM0DB3K
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.StaticMeshActor_UAID_244BFE5536D2886001_1205547477
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/E/SV/KR74OT6OMQUK3HY7LX56NJ
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.Encounter_BP_C_UAID_244BFE5536D2B66801_1535042015
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/8/K6/99MVLA5QW6DVOBJQHK66TA
+ |   |- Actor Path: /Game/PokeWorldAdventure/Maps/Towns/Pallet_Town.Pallet_Town:PersistentLevel.Caterpie_C_UAID_244BFE5536D2BA6801_1853931720
+ |   |- Actor Package: /Game/__ExternalActors__/PokeWorldAdventure/Maps/Towns/Pallet_Town/3/M3/9JNWAF35RWETLE9D99Z04Y
+[+] Content of Grid Level 1
+
